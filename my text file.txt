@@ -1,1 +1,2 @@
 My text file
+Modifies content of file wile in staged status
