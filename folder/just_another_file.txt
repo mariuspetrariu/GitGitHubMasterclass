@@ -1,0 +1,1 @@
+This file is just another file inside 'folder' folder.
