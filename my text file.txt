@@ -1,3 +1,4 @@
-My text file
+
 Modifies content of file wile in staged status
 This new line is added for seeing the differencies between files
+Added from GitHub
